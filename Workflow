@@ -1,0 +1,12 @@
+WorkFlow
+1. Detect SD Card
+2. Copy photos to drive
+3. Upload photos to Google photos or Amazon photos or Both
+4. Delete the pics from SD Card
+5. Eject the SD Card
+
+Other considerations:
+1. Avoid duplicates
+2. Create/group folder by location or date
+3. Send email when done uploading.
+4. Configure photo provider
